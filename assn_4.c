@@ -1,3 +1,20 @@
+/*Copyright (c) 4 may 2015 vaibhav dahiya.
+ * E-Mail           	: vaibhavdahiya89@gmail.com 
+ * Creation Date    	: 2015-04-04
+ * Last modification	: 2006-05-04
+               by		: vaibhav dahiya
+ * 
+ * Warranty         	: This software is provided "as is" without any 
+ * 							warranty; without even the implied warranty of 
+ * 							merchantability or fitness for a particular purpose. 
+ * use of this code in any academic work will be at your own risk and the repository maintained here is 
+ * just for the author's purpose. Please note this was an academic project and using this source code in your implemenation
+ * should require a proper reference. The author will not be responsible for any case of misconduct.
+ * 
+ */
+
+
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
